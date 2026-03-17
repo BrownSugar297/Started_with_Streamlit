@@ -1,1 +1,1 @@
-# Streamlit-BMI-calculator
+# Streamlit
