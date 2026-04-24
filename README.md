@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects
+# 🐍 Python Mini Projects:
 
 A collection of three interactive Streamlit apps: a stock/crypto tracker, a BMI calculator, and a Mars lander game.
 
